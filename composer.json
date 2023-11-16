@@ -1,0 +1,23 @@
+{
+    "name": "akromjon/settings",
+    "description": "Handy-Laravel-Settings-Package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Akromjon\\Settings\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "akromjon",
+            "email": "numonov.akromjon1998@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^8.15"
+    }
+}
